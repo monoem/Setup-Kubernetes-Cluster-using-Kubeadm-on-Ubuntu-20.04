@@ -91,7 +91,7 @@ kubeadm join 192.168.1.105:6443 --token oompvk.7498yw2b5baes0hi     --discovery-
 
 
 
-# 5. On Kworkers (front-node1 & front-node2)
+# 5. On workers (front-node1 & front-node2)
 Join the cluster
 Use the output from kubeadm token create command in previous step from the master server and run here. (in point 4)
  * node1 & node 2
