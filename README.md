@@ -1,13 +1,9 @@
 # Setup-Kubernetes-Cluster-using-Kubeadm-on-Ubuntu-20.04
 How to install a Kubernetes cluster on Ubuntu 20.04 using Kubeadm method. 
-https://www.youtube.com/watch?v=mMmxMoprxiY&list=RDCMUC6VkhPuCCwR_kG0GExjoozg&start_radio=1
-Setup Kubernetes Cluster using Kubeadm on Ubuntu 20.04
-https://github.com/justmeandopensource/kubernetes/blob/master/docs/install-cluster-ubuntu-20.md
 
 # 1. Servers Physiques ou Virtuels
- a. Pour faire tourner un cluster kubernetes, il nous faut au moins 3 serveurs:
- - Un Master
- - Deux Workers
+  - One Master
+ - Two Workers
 
  c. Server « K8s Control Plane »: Master (front-master)
  - OS: Ubuntu 20.04 LTS Server
