@@ -1,7 +1,7 @@
 # Setup-Kubernetes-Cluster-using-Kubeadm-on-Ubuntu-20.04
 How to install a Kubernetes cluster on Ubuntu 20.04 using Kubeadm method. 
 
-# 1. Servers Physiques ou Virtuels
+# 1. Servers or VM
   - One Master
  - Two Workers
 
